@@ -3,7 +3,7 @@
 <h1><p align="center">تبچی
 
 <h3><p dir="rtl">تبچی رباتی هوشمند, بسیار ساده و البته رایگان جهت امور تبلیغاتی در تلگرام است.<br>
-نوشته شده توسط <a href="https://telegram.me/Astae_bot_create">استی</a> برپایه اخرین نسخه قدیمی <a href="https://valtman.name/telegram-cli">تلگرام</a>.
+نوشته شده توسط <a href="https://t.me/TuringTeam">استی</a> برپایه اخرین نسخه قدیمی <a href="https://valtman.name/telegram-cli">تلگرام</a>.
 <br>
 <h3 align="right"> <strong> نصب و راه‌اندازی</strong> 🚀
 </h3>
@@ -11,7 +11,7 @@
 <h4 dir="rtl">ابتدا سورس <em>تبچی‌</em> را کپی کرده و پیش‌زمینه‌ها را نصب کنید.</h4>
 <h6>(موارد زیر را در ترمینال وارد کنید)</h6>
 <pre>
-<span>git clone https://github.com/AsTaEbot/tabchi.git</span>
+<span>git clone https://github.com/turingbot/tabchi.git</span>
 <span>cd tabchi</span>
 <span>chmod +x bot</span>
 <span>./bot install</span>
@@ -287,12 +287,10 @@
 <h2 dir="rtl">پشتیبانی
 <hr>
 <div align="center">
-    <a href="https://t.me/joinchat/FykmzEMUPgy3Alyih_6LKQ">
+    <a href="https://t.me/PvResanTuringTeamBot">
         <img src="http://up.upinja.com/va91k.png" hspace="210" width="210">
     </a> 
 </div>
 <h4 align="center" dir="rtl">در آخر ممنون از شما  به گروه پشتیبانی و چت ما هم سر بزنید با سپاس فراوان.
-<br>سازنده | creator : 🎇 AsTaE 🎆<a href="https://telegram.me/AsTaE_bot"> @AsTae_BOT </a><br>راهنمای استفاده از تبچی‌ بسیار ساده و قابل درک است<br>دیدن مطالب کانال ما و درباره ربات ها  
-<a href="https://telegram.me/@SShteam"> @SShteam</a></h4>
-گروه پشتیبانی ما سر بزنید و انتقادات و پیشنهادات خود را با ما در میان بگزارید با سپاس فراوان
-# <a href="https://t.me/joinchat/FykmzEMUPgy3Alyih_6LKQ"> supportgap</a></h4>
+<br>سازنده | creator : 🎇 AsTaE 🎆<a href="https://t.me/TuringTeam"> @g0db0y </a><br>راهنمای استفاده از تبچی‌ بسیار ساده و قابل درک است<br>دیدن مطالب کانال ما و درباره ربات ها  
+<a href="https://t.me/TuringTeam"> @TuringTeam</a></h4>
